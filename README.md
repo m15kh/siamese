@@ -4,7 +4,7 @@ This repository contains an implementation of a Siamese Neural Network for compa
 
 ## Project Overview
 
-Siamese networks are neural network architectures that contain two identical subnetworks with shared weights. These networks learn to find the similarity between inputs by comparing their feature representations. In this implementation, we use a Siamese network to compare MNIST digit images and determine if they represent the same digit.
+Siamese networks are neural network architectures that contain two identical subnetworks with shared weights. These networks learn to find the similarity between inputs by comparing their feature representations. In this implementation, we use a Siamese network to compare MNIST digit images and determine if they represent the same digit. 
 
 ## Features
 
