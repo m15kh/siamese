@@ -8,7 +8,7 @@ Siamese networks are neural network architectures that contain two identical sub
 
 ## Features
 
-- PyTorch implementation of a Siamese Neural Network
+- PyTorch implementation of a Siamese Neural Network 
 - Data preprocessing for creating pairs from the MNIST dataset
 - Training and evaluation scripts
 - Visualization tools for examining model predictions
